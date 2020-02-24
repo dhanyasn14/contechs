@@ -1,0 +1,369 @@
+
+body{
+	background-color: #fed39f;
+
+}
+
+body,h1,ul{
+	margin: 0;
+
+}
+div{
+	text-align: center;
+}
+h2,p,h3{
+	text-align: center;
+
+}
+h3{
+	padding-top: 2px;
+	margin: 0;
+}
+h2{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+h2,h3{
+	font-weight: bolder;
+	font-size: 65px;
+}
+
+/*div 1*/
+@font-face{
+	font-family:'lost';
+	src: url("Lost-Leonest Reguler.otf");
+
+}
+@font-face{
+	font-family: 'roman';
+    src:url("RomanaCapsClassicSquares.ttf");
+}
+.ull{
+	padding-left: 300px;
+}
+.lil{
+	padding-top: 70px;
+
+}
+.kkl{
+	width: 100%;
+	height: 35vh;
+	 
+}
+
+.dec{
+	line-height: 2;
+}
+
+
+.divi{
+	height: 35vh;
+	object-fit: cover;
+	padding: 0;
+	margin: 0;
+	/*background-color: green;
+	height: 30vh;
+    text-align: center;
+    font-family: lost;
+	font-size: 70px;*/
+}
+.vi{
+	padding: 0;
+	margin: 0;
+	height: 35vh;
+	width: 100%;
+}
+/*div 2*/
+.vidi{
+	background-color: #42240c;
+	height: 10vh;
+}
+ul{
+	list-style: none;
+	display: flex;
+}
+.llk{
+   margin: 15px;
+   padding: 15px;
+   padding-left: 4px;
+   font-weight: bold;
+   font-style: italic;
+   
+   font-family: 'Trade Winds' ;
+   padding-right: 5px;
+ }
+ #font{
+ 	padding-top: 0px;
+ }
+ /*div siteevent*/
+
+ #site{
+ 	background-color: #f64b3c;
+ 	width: 35%;
+ 	height: 55vh;
+ 	float:left;
+ 	margin-left: 7px;
+ 	padding-right: 7px;
+ 	border-radius: 5%;
+ 	border-color: black;
+ 	border-width: thick;
+ 	border: solid;
+ 	box-shadow: 3px 7px #222831;
+ 	text-align: center;
+ 	position: relative;
+}
+.hov{
+	font-family: 'Anton';
+	margin: 0;
+	padding: 0;
+	
+}
+.hov:hover{
+	background-color: white;
+}
+th:hover{
+	background-color: white;
+}
+th{
+	border-radius: 20%;
+	background-color: #e3b04b;
+	color: #0f4c75;
+	
+
+}
+td:hover{
+	background-color: white;
+}
+.link{
+	text-decoration: none;
+	color: black;
+}
+#retro{
+padding-right: 200px;
+}
+#past{
+	padding-left: 130px;
+}
+table.ts,table.te{
+
+	width:100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 6px;
+	height: 100%;
+	color: black;
+
+}
+
+.tion{
+	width:100%;
+	height:65vh;
+}
+ 
+#events{
+   width: 60%;
+   height:60vh;
+   background-color: #f64b3c;
+   float: right;
+   margin-right:6px;
+  padding-left:4px;
+  border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  text-align: center;
+  position: relative;
+}
+/*three div*/
+#devices{
+	background-color: #fed39f;
+	width: 100%;
+	position: relative;
+	height: 125vh;
+	
+}
+.dev{
+	width: 47%;
+	height: 119vh;
+	background-color: #f64b3c;
+	margin-left:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: left;
+  font-weight: bolder;
+}
+.cat:hover{
+	background-color: white;
+}
+.tac:hover{
+	background-color: white;
+}
+.dev:hover{
+	background-color: white;
+}
+.devic:hover{
+	background-color: white;
+}
+.ppl:hover{
+	background-color: white;
+}
+.kids:hover{
+	background-color: white;
+}
+.exp{
+	width:100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 6px;
+	height: 100%
+	color: black;
+
+}
+.imgi{
+	width: 100px;
+	height:100px;
+	padding: 0;
+	margin: 0;
+	border-radius: 10%;
+}
+.devic{
+	width: 47%;
+	height: 119vh;
+	background-color: #f64b3c;
+	margin-right:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: right;
+  font-weight: bolder;
+}
+.games{
+	background-color: #fed39f;
+	width: 100%;
+	position: relative;
+	height: 125vh;
+	font-family:'lost';
+}
+.ppl{
+	width: 47%;
+	height: 118vh;
+	background-color: #f64b3c;
+	margin-left:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: left;
+}
+.kids{
+	width: 47%;
+	height: 118vh;
+	background-color: #f64b3c;
+	margin-right:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: right;
+}
+.act{
+	background-color: #fed39f;
+	width: 100%;
+	position: relative;
+	height: 125vh;
+	font-family: 'roman';
+	
+}
+.tac{
+	width: 47%;
+	height: 119vh;
+	background-color: #f64b3c;
+	margin-left:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: left;
+}
+.cat{
+	width: 47%;
+	height: 119vh;
+	background-color: #f64b3c;
+	margin-right:10px;
+	border-radius: 5%;
+  border-color: black;
+  border-width: thick;
+  border: solid;
+  box-shadow: 3px 7px #222831;
+  float: right;
+}
+.lil:hover{
+	background-color: white;
+}
+.contact{
+	width: 100%;
+	height: 40vh;
+	background-color: black;
+	position: absolute;
+}
+.con{
+	line-height: 2em;
+	color: white;
+	padding-left: 90px;
+
+}
+.con1{
+	color: white;
+	width: 350px;
+	
+	padding-right: 0;
+
+}
+.cot{
+	width: 100%;
+	height: 38vh;
+}
+.wel{
+	 text-shadow: -4px -4px #ef4339,-5px -5px #ff6f5e,-6px -6px #fe8761,-7px -7px #fe8761,-8px -8px #ff8364,-9px -9px #ff8364,-10px -10px #ffdbc5,
+	 -11px -11px #ffdbc5,-12px -12px #fffafa,-13px -13px #ffffff ,-1px -1px #FF0000,-2px -2px #FF0000,-3px -3px #FF0000;
+	}
+.con:hover{
+     background-color: black;
+}
+.con1:hover{
+	background-color: black;
+}
+input{
+	height: 100px;
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	font-size: 30px;
+}
+#home{
+	
+
+	background-image: linear-gradient(to right,#f00,#ff0,#0ff,#0f0,#00f);
+	-webkit-background-clip: text;
+	animation: animate 2s linear infinite;
+	color: transparent;
+	background-size: 500%;
+	color: 
+	
+
+
+}
+@keyframes animate{
+	0%{background-position: 0% 100%;}
+	50%{background-position: 100% 0%;}
+	100%{background-position: 0% 100%;}
+}

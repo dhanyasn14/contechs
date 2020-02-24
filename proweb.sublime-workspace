@@ -1,0 +1,579 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"S",
+				"style\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bo",
+				"bold\tfont-weight"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"bac",
+				"background-clip\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"e",
+				"extra-expanded\tfont-stretch"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"len",
+				"line-height\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"FONT",
+				"font-weight\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"backgroun-c",
+				"background-color\tproperty"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"background-si",
+				"background-position\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"n",
+				"nav-item"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"it",
+				"initial\tfont-style"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"d",
+				"dotted\tborder-style"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "alt.html",
+			"settings":
+			{
+				"buffer_size": 22335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "alt.css",
+			"settings":
+			{
+				"buffer_size": 5347,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/N Swamy K/Desktop/web sub/alt.html",
+		"/C/Users/N Swamy K/Desktop/web sub/one.html",
+		"/C/Users/N Swamy K/Desktop/web sub/one.css",
+		"/C/Users/N Swamy K/Desktop/web sub/two.css",
+		"/C/Users/N Swamy K/Desktop/web sub/two.html",
+		"/C/Users/N Swamy K/Downloads/bootstrap-4.4.1/bootstrap-4.4.1/scss/bootstrap.scss",
+		"/C/Users/N Swamy K/Downloads/steve.jpg",
+		"/C/Users/N Swamy K/Desktop/web sub/proweb.html",
+		"/C/Users/N Swamy K/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/N Swamy K/Desktop/web sub/one2.css",
+		"/C/Program Files/Sublime Text 3/one"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"png\n",
+			"berri.jpg\n",
+			";\n",
+			"exp",
+			";\n",
+			"20",
+			"35",
+			"exp",
+			"7",
+			"TR",
+			"TD",
+			"TH",
+			";\n",
+			"%;\n",
+			"5px",
+			"30",
+			"26",
+			"100px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpg",
+			"berri.jpg",
+			".png",
+			"",
+			"hov",
+			"35",
+			"20",
+			"6.5",
+			"tr",
+			"td",
+			"th",
+			"35",
+			"30"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "alt.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1337
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "alt.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.19.region_keys":
+							[
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proweb.html",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
